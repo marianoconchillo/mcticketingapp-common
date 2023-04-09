@@ -1,6 +1,6 @@
 # Common Library for Error Handling and Middleware
 
-This library contains common logic for error handling, middleware and event definitions that can be shared across different services in a microservices architecture. The library is published on NPM and can be downloaded and used by other services.
+This library contains common logic for error handling, middleware and event definitions that can be shared across different services in a microservices architecture for Ticketing app. The library is published on NPM and can be downloaded and used by other services.
 
 ## Installation
 
